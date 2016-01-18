@@ -1,0 +1,7 @@
+name: Alven_Cases
+version: 0.1-a
+author: AlvenxPlay
+main: me.alven.cases.Main
+
+commands:
+  test:
